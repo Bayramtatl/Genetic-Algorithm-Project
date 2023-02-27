@@ -1,5 +1,6 @@
 # Genetic-Algorithm-Project
 Generating main text with genetic algorithm
+
 Bu projede genetik algoritma kullanılarak bozuk bir metinden ana metin üretilmesi sağlanmıştır. Algoritdaki kavramların detaylı açıklaması aşağıdadır.
 
 ## Gen
